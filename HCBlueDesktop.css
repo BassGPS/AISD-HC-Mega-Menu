@@ -1,0 +1,58 @@
+.siteWrapper {
+    background: #eeeeee none repeat scroll 0 0;
+}
+.outerNav {
+    background: #1e6db8 none repeat scroll 0 0;
+}
+.nav {
+    background: #1e6db8 none repeat scroll 0 0;
+}
+.bannerlineTop {
+    background: #1e6db8 none repeat scroll 0 0;
+    border-bottom: 2px solid white;
+    height: 8px;
+}
+.bannerlineBottom {
+    background: #1e6db8 none repeat scroll 0 0;
+    border-top: 2px solid white;
+    height: 8px;
+}
+.headerWrapper {
+	background: #1e6db8 none repeat scroll 0 0;
+}
+
+/* ------------------ MegaMenu Styles --------------------*/
+
+
+nav a:active,
+nav a:hover {
+    background: #2877c2 none repeat scroll 0 0 !important;
+    color: White !important;
+}
+a.nohover:hover {
+    background: white;
+}
+.menu .current-menu-item {
+    background: #2877c2 none repeat scroll 0 0 !important;
+}
+.menu .current-menu-item a {
+    color: white;
+}
+.menu > ul > li a {
+	color:white;
+}
+.menu > ul > li {
+    background: #2877c2 none repeat scroll 0 0 !important;
+}
+.menu > ul > li:hover {
+    background: #f0f0f0;
+}
+.menu > ul > li > ul {
+    background: #2877c2 none repeat scroll 0 0 !important;
+}
+.menu > ul > li > ul > li a {
+    color: #fff;
+}
+.menu-mobile {
+	color:white !important;
+}
